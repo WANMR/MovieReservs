@@ -29,6 +29,7 @@
 .button-content a:hover{
     box-shadow: none;
     color: black;
+    
 }
 .btn-trailer{
     background-color: rgb(27, 133, 109);
@@ -73,22 +74,26 @@
     margin-right: 20px;
 }
 .clock{
+    background: none;
+    border:none;
     margin-right: 20px;
 }
 .people{
     margin-right: 20px;
 }
-.hora{
-    position:absolute;
-    background:rgb(255, 255, 255);
-}
-.hora li a{
+.hora a{
     display: block;
-    padding: 15xp;
     color: black;
     text-decoration: none;
 }
-.clock li:hover .hora{
-    visibility: visible;
-    opacity: 1;
+.hora{
+    background-color: rgb(183, 183, 181);
+    display: none;
+}
+.hora a:hover{
+    background-color: rgb(171, 167, 167);
+    color: black;
+}
+.reloj:hover .hora{
+    display: block;
 }
