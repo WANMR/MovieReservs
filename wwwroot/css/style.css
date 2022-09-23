@@ -1,0 +1,80 @@
+@import 'mediaqueries.css';
+.imagen1{
+    width: 300xp;
+    padding: 10px, 0px;
+    margin-left: -100px;
+    float: left;
+    padding-right: 50px;
+}
+.titulo{
+    text-align: center;
+}  
+.tipo{
+    text-align: center;
+}
+.formato{
+    text-align: right;
+    color: red;
+    float:right;
+    font-size: 20px;
+    font-weight: 900;
+}  
+.descripcion{
+    text-align:left;
+    color:black;
+    font-family: Arial;
+    font-size: 20px;
+    box-align:margin-left;
+}   
+.button-content a:hover{
+    box-shadow: none;
+    color: black;
+}
+.btn-trailer{
+    background-color: rgb(27, 133, 109);
+    padding: 8px 40px;
+    font-size: 1.2em;
+    font-weight: 900;
+    border-radius: 20px;
+    border: none;
+    margin-left: 100xp;
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    box-shadow: 0px 3px 14px 8px rgba(10, 10, 10, 0.78);
+    padding-right: 50px;
+    border: solid;
+    padding-right: 50px;
+}
+.btn-reserva{
+    display: inline-block;
+    background-color: rgb(27, 133, 109);
+    padding: 8px 40px;
+    font-size: 1.2em;
+    font-weight: 900;
+    border-radius: 20px;
+    margin-left: 100xp;
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    box-shadow: 0px 3px 14px 8px rgba(10, 10, 10, 0.78);
+    padding-right: 50px;
+    border: solid;
+    margin: 20px;
+}
+.iconos{
+    text-align:right;
+    justify-content:right;
+    display: flex;
+}
+.calendar{
+    margin-right: 20px;
+}
+.clock{
+    margin-right: 10px;
+}
+.people{
+    margin-right: 20px;
+}
