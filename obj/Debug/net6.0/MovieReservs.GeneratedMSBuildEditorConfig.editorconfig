@@ -8,37 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MovieReservs
 build_property.RootNamespace = MovieReservs
-build_property.ProjectDir = C:\Proyectos\MovieReservs\
+build_property.ProjectDir = c:\Moviereservs\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Proyectos\MovieReservs
+build_property.MSBuildProjectDirectory = c:\Moviereservs
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Proyectos/MovieReservs/Views/Home/Index.cshtml]
+[c:/Moviereservs/MovieReservs/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW92aWVSZXNlcnZzXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Moviereservs/MovieReservs/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW92aWVSZXNlcnZzXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Moviereservs/MovieReservs/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW92aWVSZXNlcnZzXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Moviereservs/MovieReservs/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW92aWVSZXNlcnZzXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Moviereservs/MovieReservs/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW92aWVSZXNlcnZzXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Moviereservs/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos/MovieReservs/Views/Shared/Error.cshtml]
+[c:/Moviereservs/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos/MovieReservs/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Moviereservs/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos/MovieReservs/Views/templates/Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVtcGxhdGVzXExheW91dC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Proyectos/MovieReservs/Views/_ViewImports.cshtml]
+[c:/Moviereservs/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos/MovieReservs/Views/_ViewStart.cshtml]
+[c:/Moviereservs/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos/MovieReservs/Views/Shared/_Layout.cshtml]
+[c:/Moviereservs/MovieReservs/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW92aWVSZXNlcnZzXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-on8jg7y5zc
+
+[c:/Moviereservs/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5hdb67lscu

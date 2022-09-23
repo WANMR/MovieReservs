@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9UdYysLohy55LRUpW0oZXn4yI2OkTMF0gFDoTLxWhRo=",
+  "Hash": "wN2U/33REmv4wwdLptz3WMDHcV8LSw8n53KgTqGj6bM=",
   "Source": "MovieReservs",
   "BasePath": "_content/MovieReservs",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MovieReservs\\wwwroot",
       "Source": "MovieReservs",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MovieReservs.styles.css",
+      "Identity": "C:\\MovieReservs\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MovieReservs.styles.css",
       "SourceId": "MovieReservs",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\MovieReservs\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "MovieReservs.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Proyectos\\MovieReservs\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MovieReservs.styles.css"
+      "OriginalItemSpec": "C:\\MovieReservs\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MovieReservs.styles.css"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MovieReservs.bundle.scp.css",
+      "Identity": "C:\\MovieReservs\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MovieReservs.bundle.scp.css",
       "SourceId": "MovieReservs",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\MovieReservs\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "MovieReservs.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Proyectos\\MovieReservs\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MovieReservs.bundle.scp.css"
+      "OriginalItemSpec": "C:\\MovieReservs\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MovieReservs.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\css\\site.css",
+      "Identity": "C:\\MovieReservs\\wwwroot\\css\\site.css",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\css\\style.css",
+      "Identity": "C:\\MovieReservs\\wwwroot\\css\\style.css",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\favicon.ico",
+      "Identity": "C:\\MovieReservs\\wwwroot\\favicon.ico",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -102,10 +102,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\img\\fondo1.jpg",
+      "Identity": "C:\\MovieReservs\\wwwroot\\img\\dragonball.png",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
+      "BasePath": "_content/MovieReservs",
+      "RelativePath": "img/dragonball.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\dragonball.png"
+    },
+    {
+      "Identity": "C:\\MovieReservs\\wwwroot\\img\\fondo1.jpg",
+      "SourceId": "MovieReservs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "img/fondo1.jpg",
       "AssetKind": "All",
@@ -119,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\img\\fondo1.jpg"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\img\\Logo 2.svg",
+      "Identity": "C:\\MovieReservs\\wwwroot\\img\\Logo 2.svg",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "img/Logo 2.svg",
       "AssetKind": "All",
@@ -136,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Logo 2.svg"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\img\\Logo.svg",
+      "Identity": "C:\\MovieReservs\\wwwroot\\img\\Logo.svg",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "img/Logo.svg",
       "AssetKind": "All",
@@ -153,10 +170,27 @@
       "OriginalItemSpec": "wwwroot\\img\\Logo.svg"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\js\\site.js",
+      "Identity": "C:\\MovieReservs\\wwwroot\\img\\trenbala.png",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
+      "BasePath": "_content/MovieReservs",
+      "RelativePath": "img/trenbala.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\trenbala.png"
+    },
+    {
+      "Identity": "C:\\MovieReservs\\wwwroot\\js\\site.js",
+      "SourceId": "MovieReservs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -170,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -187,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -204,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -221,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -238,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -255,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -272,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -289,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -306,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -323,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -340,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -357,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -374,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -391,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -408,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -425,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -442,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -459,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -476,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -493,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -510,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -527,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -544,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -561,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -578,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -595,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -612,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -629,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -646,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -663,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -680,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -697,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -714,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -731,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -748,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -765,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -782,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -799,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -816,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -833,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -850,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -867,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -884,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -901,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -918,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -935,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -952,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -969,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -986,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1003,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1020,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1037,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1054,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1071,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1088,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1105,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1122,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Proyectos\\MovieReservs\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\MovieReservs\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "MovieReservs",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Proyectos\\MovieReservs\\wwwroot\\",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
       "BasePath": "_content/MovieReservs",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

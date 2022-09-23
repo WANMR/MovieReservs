@@ -1,4 +1,25 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+  ViewData["Title"] = "Home Page";
 }
-<!--se agrega el codigo de geral de aqui para abajo-->
+<!--se agrega el codigo de geral de aqui para abajo--->
+
+<div class="movie">
+
+  <div class="titulomovie">
+    <h1> <dfn>Movie Reservs</dfn></h1>
+    <p> Reserva entradas a todas tus peliculas favoritas sin necesidad de hacer esas largas filas y con tan solo un
+      clic, desde donde quieras y cuando quieras. </p>
+  </div>
+  <div class="movie1" asp-controller="Home" asp-action="pelicula1">
+    <img src="../img/trenbala.png">
+    <h4> Tren Bala </h4>
+    <h5> acción, suspenso</h5>
+    <h6> 2D </h6>
+  </div>
+  <div class="movie2" asp-controller="Home" asp-action="Pelicula2">
+    <img src="../img/dragonball.png">
+    <h4> Dragon Ball </h4>
+    <h5> animación, acción</h5>
+    <h6> 2D </h6>
+  </div>
+</div>

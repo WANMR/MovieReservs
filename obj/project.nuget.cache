@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QBy7La1NXNVoLrmavF+/liEIGZ/ACKxJfUkJmYwSrRhE8nknpkxStWzWfoGXCTBXmjBHuxbVECEFie4iDBbNlg==",
+  "dgSpecHash": "y6gkN5JTFDK7JtEdh6oQQIGwmV9+KUXAfv7GM0lSp9qnVLicRXi38cVBRqlXweqApHrsyZbPp9o5Sn9fMMFEKQ==",
   "success": true,
-  "projectFilePath": "C:\\Proyectos\\MovieReservs\\MovieReservs.csproj",
+  "projectFilePath": "C:\\MovieReservs\\MovieReservs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
