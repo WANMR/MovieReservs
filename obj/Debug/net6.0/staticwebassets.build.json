@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4wFNChSmNqLq4dTEZLqoWPcPCZewAjEEef0vfyjAgMY=",
+  "Hash": "AiO+P31800mWbe9FB5zjhiWU4qkUWn+7WkjpxQR/qAI=",
   "Source": "MovieReservs",
   "BasePath": "_content/MovieReservs",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\MovieReservs\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MovieReservs.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\MovieReservs\\wwwroot\\css\\media.css",
+      "SourceId": "MovieReservs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
+      "BasePath": "_content/MovieReservs",
+      "RelativePath": "css/media.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\media.css"
     },
     {
       "Identity": "C:\\MovieReservs\\wwwroot\\css\\site.css",
@@ -151,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Logo.svg"
+    },
+    {
+      "Identity": "C:\\MovieReservs\\wwwroot\\img\\tren bala.jpg",
+      "SourceId": "MovieReservs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MovieReservs\\wwwroot\\",
+      "BasePath": "_content/MovieReservs",
+      "RelativePath": "img/tren bala.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\tren bala.jpg"
     },
     {
       "Identity": "C:\\MovieReservs\\wwwroot\\js\\site.js",
